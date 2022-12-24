@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleToucheApp</string>
+    <string name="dog">いぬ</string>
+    <string name="cat">ねこ</string>
+    <string name="clear">クリア</string>
+    <string name="text">Text</string>
+</resources>
